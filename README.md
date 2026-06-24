@@ -1,14 +1,9 @@
 # Scoop Bucket for Glyph
 
-[Scoop](https://scoop.sh) bucket for [Glyph](https://github.com/hamidfzm/glyph), a cross-platform markdown viewer.
+[Scoop](https://scoop.sh) bucket for [Glyph](https://github.com/hamidfzm/glyph), a cross-platform markdown viewer and editor.
 
-## Usage
+## Install
 
-```powershell
-scoop bucket add hamidfzm https://github.com/hamidfzm/scoop-bucket
-scoop install glyph
-```
+Install instructions live on the Glyph website: **https://glyph.md/#download**
 
-## About
-
-This bucket is automatically updated by the [Glyph release workflow](https://github.com/hamidfzm/glyph/blob/main/.github/workflows/release.yml).
+This bucket is updated automatically by the [Glyph release workflow](https://github.com/hamidfzm/glyph/blob/main/.github/workflows/release.yml).
